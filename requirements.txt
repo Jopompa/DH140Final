@@ -1,4 +1,3 @@
 plotly
-sqlite3
 pandas
 matplotlib.pyplot
