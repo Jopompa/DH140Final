@@ -1,4 +1,4 @@
-plotly.graph_objects
+plotly
 sqlite3
 pandas
 matplotlib.pyplot
